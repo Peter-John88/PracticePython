@@ -45,4 +45,4 @@ print list(set([i for i in a for j in b if i == j]))
 
 
 # knowledge summary:
-  #random
+  #Random - https://github.com/Peter-John88/ConquerPython/blob/master/047Random
